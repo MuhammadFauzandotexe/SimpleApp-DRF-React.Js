@@ -1,0 +1,17 @@
+.idea
+./backend/.env
+./backend/.vscode
+./backend/backend/migrations
+./backend/backend/.env
+./backend/backend/.vscode
+
+
+./Frontend/.idea
+./Frontend/frontend/.idea
+./Frontend/frontend/.env
+./Frontend/frontend/.eslintrc.cjs
+./Frontend/frontend/vite.config.js
+./Frontend/frontend/node_modules
+
+
+
